@@ -21,4 +21,3 @@ https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/TensorF
 
 
 
-
