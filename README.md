@@ -9,7 +9,7 @@ Training a joke generator with bidirectional LSTM
 
 The entire dataset contains ~230,000 jokes. Building the the bidirectional LSTM model resulted in roughly 27M parameters, which was too computationally costly for any configuration tried. The notebooks target the subset of 2000 (executed on a local Jupyter notebook) and 20000 (trained on a spark cluster) jokes
 
-The .csv version of the dataset 'shortjokes.csv' is available in the directory
+The .csv version of the dataset `shortjokes.csv` is available in the directory
 
 ## Code
 The code was adapted from the following Colab project on predicting Irish poetry 
